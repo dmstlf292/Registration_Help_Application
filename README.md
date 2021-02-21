@@ -1,8 +1,15 @@
 # Registration_Help_Application
-Registration Help Applicatio 
+Registration_Help_Application
+
+#Login, Logout, Signup
+#비밀번호 암호화, 해킹방지
+#강의조회, 강의선택후 시간표 추가 (최대 21학점 까지만 반영)
+#강의 실시간 경쟁률 분석 및 순위도 반영
+#어플리케이션 개발자 소개
 
 
-<p align="center">
+<p align="center" margin-left="20px">
+  
 <img src="https://user-images.githubusercontent.com/73155839/108617016-21eb2480-7456-11eb-80c1-eef44d8eee32.png" width="20%" height="30%">
 <img src="https://user-images.githubusercontent.com/73155839/108617017-21eb2480-7456-11eb-8c1b-8e9e7052240a.jpg" width="20%" height="30%">
 <img src="https://user-images.githubusercontent.com/73155839/108617018-2283bb00-7456-11eb-9c1e-0c5efd59e70c.jpg" width="20%" height="30%">
