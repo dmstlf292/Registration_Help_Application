@@ -1,11 +1,11 @@
 # Registration_Help_Application
 Registration_Help_Application
 
-#Login, Logout, Signup
-#비밀번호 암호화, 해킹방지
-#강의조회, 강의선택후 시간표 추가 (최대 21학점 까지만 반영)
-#강의 실시간 경쟁률 분석 및 순위도 반영
-#어플리케이션 개발자 소개
+-Login, Logout, Signup
+-비밀번호 암호화, 해킹방지
+-강의조회, 강의선택후 시간표 추가 (최대 21학점 까지만 반영)
+-강의 실시간 경쟁률 분석 및 순위도 반영
+-어플리케이션 개발자 소개
 
 
 <p align="center" margin-left="20px">
