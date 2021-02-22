@@ -6,6 +6,7 @@ Registration_Help_Application
 * 강의조회, 강의선택후 시간표 추가 (최대 21학점 까지만 반영)
 * 강의 실시간 경쟁률 분석 및 순위도 반영
 * 어플리케이션 개발자 소개
+* php & mysql & cafe24 연동으로 실시간 
 
 
 
