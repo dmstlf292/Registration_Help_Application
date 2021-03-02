@@ -14,7 +14,8 @@
 * 처음으로 php이용하여 db관리 하는 점이 낯설었다.
 
 
-<p align="center" margin-left="20px">
+
+<p align="center" margin-left="20px" >
   
 <img src="https://user-images.githubusercontent.com/73155839/108617016-21eb2480-7456-11eb-80c1-eef44d8eee32.png" width="20%" height="30%">
 <img src="https://user-images.githubusercontent.com/73155839/108617017-21eb2480-7456-11eb-8c1b-8e9e7052240a.jpg" width="20%" height="30%">
@@ -35,5 +36,5 @@
 </p>
 
 <느낀점>
-* 안드로이드 화면구성이 웹과는 많이 달라 공부를 많이 해야겠다는 생각이 들었다. 
+* 안드로이드 화면구성이 웹과는 많이 달라 화면구성파트부터 많은 시간이 걸렸다. 공부를 많이 해야겠다는 생각이 들었다. 
 * 다음 db관리는 aws로 관리해 볼 것이다.
