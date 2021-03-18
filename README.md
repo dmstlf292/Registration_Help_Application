@@ -1,8 +1,10 @@
 # Registration_Help_Application
 # 7일간 진행한 개인 프로젝트
 
+# 개발언어 및 환경
+* Java, Android Studio, PHP, Cafe24
 
- <주요기능소개>
+# 주요기능
 * Login, Logout, Signup
 * 비밀번호 암호화, 해킹방지
 * 강의조회, 강의선택후 시간표 추가 (최대 21학점 까지만 반영)
@@ -10,11 +12,10 @@
 * 어플리케이션 개발자 소개
 * php & mysql & cafe24 연동으로 실시간 반영
 
-<프로젝트 진행하면서 힘들었던 점>
+# 프로젝트 진행하면서 힘들었던 점
 * 처음으로 php이용하여 db관리 하는 점이 낯설었다.
 
-
-
+# 기능구현
 <p align="center" margin-left="20px" margin-top="50px">
   
 <img src="https://user-images.githubusercontent.com/73155839/108617016-21eb2480-7456-11eb-80c1-eef44d8eee32.png" width="20%" height="30%">
@@ -35,6 +36,6 @@
 
 </p>
 
-<느낀점>
+# 느낀점
 * 안드로이드 화면구성이 웹과는 많이 달라 화면구성파트부터 많은 시간이 걸렸다. 공부를 많이 해야겠다는 생각이 들었다. 
 * 다음 db관리는 aws로 관리해 볼 것이다.
